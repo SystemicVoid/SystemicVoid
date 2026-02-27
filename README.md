@@ -47,9 +47,9 @@ Founder of [PrisMind](https://prismind.app) and [PalmAI](https://palmai.es) — 
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=bc8cff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&title_color=0969da&text_color=656d76&icon_color=8250df">
-    <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=bc8cff" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-flame-92.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=bc8cff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-phi-flame-92.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&title_color=0969da&text_color=656d76&icon_color=8250df">
+    <img alt="GitHub Stats" src="https://github-readme-stats-phi-flame-92.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=bc8cff" height="165">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SystemicVoid&background=00000000&hide_border=true&ring=58a6ff&fire=f778ba&currStreakLabel=8b949e&sideLabels=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&dates=8b949e">
