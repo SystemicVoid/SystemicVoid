@@ -15,7 +15,7 @@ Founder of [PrisMind](https://prismind.app) and [PalmAI](https://palmai.es) — 
 | Domain | What | Stack |
 |--------|------|-------|
 | AI Operations | Transformation systems at Eterea | Python, n8n, FastAPI |
-| Speech-to-Text | Parakeet STT — stability + economics | Python, Rust |
+| Speech-to-Text | Parakeet STT — stability + economics | Pytorch, Rust |
 | Video Orchestration | End-to-end video-flow pipeline | TypeScript, Docker |
 | Accounting software | Convex backend + nextjs frontend + Financial planning | Typescript, Convex |
 | Grant Matching | Automated grant discovery workflows | FastAPI, Claude API |
