@@ -31,14 +31,13 @@ Founder of [PrisMind](https://prismind.me) and [PalmAI](https://palmai.es) — h
 
 ## What I Ship
 
-| Domain | What | Stack |
-|--------|------|-------|
-| AI Operations | Transformation systems at Eterea | Python, n8n, FastAPI |
-| Speech-to-Text | Parakeet STT — stability + unit economics | Python, Rust |
-| Video Orchestration | End-to-end video-flow pipeline | TypeScript, Docker |
-| Accounting software | Convex backend + nextjs frontend + Financial planning | Typescript, Convex |
-| Grant Matching | Automated grant discovery and application workflows | FastAPI, Claude API |
-| Deep Personality | Personality modeling + PrisMind integration | Python, OpenAI |
+| Domain | System | Stack |
+| :--- | :--- | :--- |
+| **Speech-to-Text** | **Parakeet STT** — Low-latency, local-first Linux dictation with injection reliability. | Python (NeMo), Rust (Tokio), Wayland |
+| **Financial Ops** | **Eterea Accounting** — Idempotent financial event ingestion and compliance platform. | TypeScript, Convex, Next.js, Vitest |
+| **EdTech** | **Anki-API** — Agent-assisted flashcard generation with EAT-aligned human review loops. | Python (FastAPI), React, AnkiConnect |
+| **AI Orchestration** | **PrisMind** — Multi-agent expert system for complex advisory flows. | Python, OpenAI, LangChain |
+| **AI Safety** | **Mech Interp Research** — Researching hallucination detection and model introspection. | PyTorch, TransformerLens, SAEs |
 
 <p align="center">
   <a href="https://palmai.es">
