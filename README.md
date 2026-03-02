@@ -33,10 +33,10 @@ Founder of [PrisMind](https://prismind.me) and [PalmAI](https://palmai.es) — h
 
 | Domain | System | Stack |
 | :--- | :--- | :--- |
-| **Speech-to-Text** | **Parakeet STT** — Low-latency, local-first Linux dictation with injection reliability. | Python (NeMo), Rust (Tokio), Wayland |
-| **Financial Ops** | **Eterea Accounting** — Idempotent financial event ingestion and compliance platform. | TypeScript, Convex, Next.js, Vitest |
-| **EdTech** | **Anki-API** — Agent-assisted flashcard generation with EAT-aligned human review loops. | Python (FastAPI), React, AnkiConnect |
-| **AI Orchestration** | **PrisMind** — Multi-agent expert system for complex advisory flows. | Python, OpenAI, LangChain |
+| **Speech-to-Text** | **Parakeet STT** — Wayland-native overlay with Rust push-to-talk client and adaptive injection routing for <200ms delivery. | Python (NeMo), Rust (Tokio), Wayland |
+| **Financial Ops** | **Eterea Accounting** — Canonical ledger with immutable event logging, deterministic replay for parser drift, and compliance gating. | TypeScript, Convex, Next.js, Vitest |
+| **EdTech** | **Anki-API** — Agent-assisted flashcard pipeline with schema validation and human-approval-first logic before deck insertion. | Python (FastAPI), React, AnkiConnect |
+| **AI Orchestration** | **PrisMind** — Board-of-experts router using sequential chains and structured outputs for complex advisory flows. | Python, OpenAI, LangChain |
 | **AI Safety** | **Mech Interp Research** — Researching hallucination detection and model introspection. | PyTorch, TransformerLens, SAEs |
 
 <p align="center">
