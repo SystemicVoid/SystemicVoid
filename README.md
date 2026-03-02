@@ -18,7 +18,7 @@ Founder of [PrisMind](https://prismind.me) and [PalmAI](https://palmai.es) — h
 | Speech-to-Text | Parakeet STT — stability + unit economics | Python, Rust |
 | Video Orchestration | End-to-end video-flow pipeline | TypeScript, Docker |
 | Accounting software | Convex backend + nextjs frontend + Financial planning | Typescript, Convex |
-| Grant Matching | Automated grant discovery workflows | FastAPI, Claude API |
+| Grant Matching | Automated grant discovery and application workflows | FastAPI, Claude API |
 | Deep Personality | Personality modeling + PrisMind integration | Python, OpenAI |
 
 ## Open Source
