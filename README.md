@@ -41,5 +41,15 @@ Founder of [PrisMind](https://prismind.me) and [PalmAI](https://palmai.es) — h
 ---
 
 <p align="center">
-  <a href="https://palmai.es"><strong>PalmAI</strong> — AI solutions for your business</a> · <a href="https://prismind.me">PrisMind</a> · <a href="mailto:hugo@palmai.es">Contact</a>
+  <a href="https://palmai.es">
+    <img src="https://img.shields.io/badge/palmai.es-000000?style=for-the-badge&logo=safari&logoColor=white" alt="PalmAI" />
+  </a>
+  &nbsp;
+  <a href="mailto:hugo@palmai.es">
+    <img src="https://img.shields.io/badge/hugo%40palmai.es-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Hugo_Palmai">
+    <img src="https://img.shields.io/badge/%40Hugo__Palmai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
 </p>
