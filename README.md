@@ -4,8 +4,7 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/SystemicVoid/SystemicVoid/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-I build practical AI systems that ship and create real-world leverage.
-Founder of [PrisMind](https://prismind.me) and [PalmAI](https://palmai.es) — helping businesses integrate AI into operations that actually work.
+Founder of [PalmAI](https://palmai.es), helping businesses integrate AI into operations that actually work.
 
 > As models raise the baseline, raw technical skills commoditise.
 > The durable advantage is sustained deep work and good judgment.
