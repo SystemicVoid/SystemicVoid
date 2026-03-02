@@ -11,6 +11,10 @@ Founder of [PrisMind](https://prismind.me) and [PalmAI](https://palmai.es) — h
 > The durable advantage is sustained deep work and good judgment.
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,react,nextjs,tailwind,fastapi,docker,supabase,linux&theme=dark" alt="Tech stack" />
+</p>
+
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-flame-92.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&hide_rank=true&title_color=58a6ff&text_color=8b949e&icon_color=bc8cff">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-phi-flame-92.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&hide_rank=true&title_color=0969da&text_color=656d76&icon_color=8250df">
@@ -35,10 +39,6 @@ Founder of [PrisMind](https://prismind.me) and [PalmAI](https://palmai.es) — h
 | Accounting software | Convex backend + nextjs frontend + Financial planning | Typescript, Convex |
 | Grant Matching | Automated grant discovery and application workflows | FastAPI, Claude API |
 | Deep Personality | Personality modeling + PrisMind integration | Python, OpenAI |
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,rust,react,nextjs,tailwind,fastapi,docker,supabase,linux&theme=dark" alt="Tech stack" />
-</p>
 
 <p align="center">
   <a href="https://palmai.es">
