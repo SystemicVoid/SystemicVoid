@@ -4,10 +4,7 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/SystemicVoid/SystemicVoid/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-Founder of [PalmAI](https://palmai.es), helping businesses integrate AI into operations that actually work.
-
-> As models raise the baseline, raw technical skills commoditise.
-> The durable advantage is sustained deep work and good judgment.
+Hello, world ! Make yourself at home 
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,rust,react,nextjs,tailwind,fastapi,docker,supabase,linux&theme=dark" alt="Tech stack" />
