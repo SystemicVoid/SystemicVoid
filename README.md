@@ -23,13 +23,11 @@
 
 ---
 
-| Domain | System | Stack |
-| :--- | :--- | :--- |
-| **Speech-to-Text** | **Parakeet STT** — Wayland-native overlay with Rust push-to-talk client and adaptive injection routing for <200ms delivery. | Python (NeMo), Rust (Tokio), Wayland |
-| **Financial Ops** | **Eterea Accounting** — Canonical ledger with immutable event logging, deterministic replay for parser drift, and compliance gating. | TypeScript, Convex, Next.js, Vitest |
-| **EdTech** | **Anki-API** — Agent-assisted flashcard pipeline with schema validation and human-approval-first logic before deck insertion. | Python (FastAPI), React, AnkiConnect |
-| **AI Orchestration** | **PrisMind** — Board-of-experts router using sequential chains and structured outputs for complex advisory flows. | Python, OpenAI, LangChain |
-| **AI Safety** | **Mech Interp Research** — Researching hallucination detection and model introspection. | PyTorch, TransformerLens, SAEs |
+| **Speech-to-Text** | Local inference, Wayland-native overlay with Rust push-to-talk client and adaptive injection routing for <200ms delivery. | Python (NeMo), Rust, Wayland |
+| **Financial Ops** | Canonical ledger with immutable event logging, deterministic replay for parser drift, and compliance gating. | TypeScript, Convex, Next.js, Vitest |
+| **EdTech** | Agent-assisted flashcard pipeline with schema validation and human-approval-first logic before deck insertion. | Python (FastAPI), React, AnkiConnect |
+| **AI Orchestration** | Board-of-experts router using sequential chains and structured outputs for complex advisory flows. | Python, OpenAI, LangChain |
+| **AI Safety** | Researching hallucination detection and model introspection. | PyTorch, TransformerLens, SAEs |
 
 <p align="center">
   <a href="https://palmai.es">
