@@ -15,9 +15,9 @@
     <img alt="GitHub Stats" src="https://github-readme-stats-phi-flame-92.vercel.app/api?username=SystemicVoid&show_icons=true&bg_color=00000000&hide_border=true&hide_rank=true&title_color=58a6ff&text_color=8b949e&icon_color=bc8cff" height="165">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SystemicVoid/SystemicVoid/main/assets/top-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SystemicVoid/SystemicVoid/main/assets/top-langs-light.svg">
-    <img alt="Top Languages" src="https://raw.githubusercontent.com/SystemicVoid/SystemicVoid/main/assets/top-langs-dark.svg" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-flame-92.vercel.app/api/top-langs?username=SystemicVoid&layout=compact&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-phi-flame-92.vercel.app/api/top-langs?username=SystemicVoid&layout=compact&bg_color=00000000&hide_border=true&title_color=0969da&text_color=656d76&langs_count=8">
+    <img alt="Top Languages" src="https://github-readme-stats-phi-flame-92.vercel.app/api/top-langs?username=SystemicVoid&layout=compact&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=8" height="165">
   </picture>
 </p>
 
