@@ -23,8 +23,6 @@
 
 ---
 
-## What I Ship
-
 | Domain | System | Stack |
 | :--- | :--- | :--- |
 | **Speech-to-Text** | **Parakeet STT** — Wayland-native overlay with Rust push-to-talk client and adaptive injection routing for <200ms delivery. | Python (NeMo), Rust (Tokio), Wayland |
