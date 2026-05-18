@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SystemicVoid/SystemicVoid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SystemicVoid/SystemicVoid/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SystemicVoid/SystemicVoid/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,rust,react,nextjs,tailwind,fastapi,docker,supabase,linux&theme=dark" alt="Tech stack" />
 </p>
