@@ -25,7 +25,6 @@
 | **PrisMind** | Board-of-experts router using sequential chains and structured outputs for complex advisory flows. | Python, OpenAI, LangChain |
 | [**H-Neurons**](https://github.com/SystemicVoid/H-Neurons) | Gemma 3 4B intervention audit — mechanistic workspace testing measurement, localization, control, and externality around hallucination readouts and steering targets. | Python, PyTorch, TransformerLens, intervention tooling |
 | **safety-db** | AI safety research knowledge system for ingesting, parsing, indexing, and querying papers and standards, with source-aware coverage tracking and retrieval regression gates. | Python, Postgres, embeddings, uv, just |
-| **Conference** | Marketing site and registration flow for `conference.craton.tech`, including production build checks and a regression harness for deployment white-page failures. | Vite, React, TypeScript, Vercel |
 
 <p align="center">
   <a href="https://palmai.es">
