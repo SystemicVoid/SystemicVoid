@@ -19,12 +19,12 @@
 
 | Project | Scope | Stack |
 |---|---|---|
+| [**H-Neurons**](https://github.com/SystemicVoid/H-Neurons) | Gemma 3 4B intervention audit — mechanistic workspace testing measurement, localization, control, and externality around hallucination readouts and steering targets. | Python, PyTorch, TransformerLens, intervention tooling |
+| **safety-db** | AI safety research knowledge system for ingesting, parsing, indexing, and querying papers and standards, with source-aware coverage tracking and retrieval regression gates. | Python, Postgres, embeddings, uv, just |
 | [**Parakeet STT**](https://github.com/SystemicVoid/parakeet-stt) | Local low-latency speech-to-text stack for Linux/Wayland. A Python/FastAPI daemon runs NeMo Parakeet ASR; a Rust push-to-talk client handles global hotkeys, WebSocket streaming, overlays, and text injection. | Python, FastAPI, NeMo, Rust, Tokio, Wayland |
 | **Eterea Accounting** | Canonical ledger with immutable event logging, deterministic replay for parser drift, and compliance gating. | TypeScript, Convex, Next.js, Vitest |
 | [**Anki API**](https://github.com/SystemicVoid/anki-api) | Agent-assisted flashcard pipeline that extracts from web content, YouTube transcripts, and documents, then keeps a human review gate before writing to Anki. | Python, FastAPI, React, TypeScript, AnkiConnect |
 | **PrisMind** | Board-of-experts router using sequential chains and structured outputs for complex advisory flows. | Python, OpenAI, LangChain |
-| [**H-Neurons**](https://github.com/SystemicVoid/H-Neurons) | Gemma 3 4B intervention audit — mechanistic workspace testing measurement, localization, control, and externality around hallucination readouts and steering targets. | Python, PyTorch, TransformerLens, intervention tooling |
-| **safety-db** | AI safety research knowledge system for ingesting, parsing, indexing, and querying papers and standards, with source-aware coverage tracking and retrieval regression gates. | Python, Postgres, embeddings, uv, just |
 
 <p align="center">
   <a href="https://palmai.es">
